@@ -1,5 +1,4 @@
 package com.example.mvvm_databinding_tictac.model;
-
 public class Player {
 
     public String name;
